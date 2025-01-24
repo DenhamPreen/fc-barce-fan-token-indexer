@@ -1,0 +1,7 @@
+type Account {
+  # id is the address of the account
+  id: ID!
+  # account balance of tokens
+  balance: BigInt!
+}
+
